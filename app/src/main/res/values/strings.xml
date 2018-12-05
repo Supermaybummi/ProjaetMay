@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Projaet May</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_tltle">คนแถวนี้กินอะไรกัน ?</string>
+    <string name="btn_facebook">ลงชื่อเช้าใช้ด้วย Facebook </string>
+    <string name="btn_email">ลงชื่อเข้าใช้ด้วยอีเมล</string>
+    <string name="btn_register">สมัครสมาชิก </string>
+    <string name="close">ปิด</string>
 </resources>
